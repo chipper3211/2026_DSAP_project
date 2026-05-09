@@ -1,0 +1,35 @@
+{
+    "mylist": {
+        "reward": "好ㄟ",
+        "tasks": [
+            {
+                "id": "934ca61a-b40e-425d-9570-ba2845ee2c75",
+                "name": "任務1",
+                "deadline": "2026-05-10 18:00",
+                "priority": 5,
+                "completed": true
+            },
+            {
+                "id": "7621c239-d39b-417b-811b-af5720bce3b4",
+                "name": "任務2",
+                "deadline": "2026-05-10 18:01",
+                "priority": 2,
+                "completed": true
+            },
+            {
+                "id": "d3486121-d2f2-4a24-9975-31fd60930e97",
+                "name": "任務3",
+                "deadline": "2026-05-10 18:01",
+                "priority": 3,
+                "completed": true
+            },
+            {
+                "id": "be3595bc-eea5-483e-bc43-ba853183b44a",
+                "name": "任務4",
+                "deadline": "2026-05-10 17:01",
+                "priority": 3,
+                "completed": true
+            }
+        ]
+    }
+}
