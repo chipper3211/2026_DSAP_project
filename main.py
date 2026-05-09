@@ -1,11 +1,16 @@
+import os
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
 from datetime import datetime
 import uuid
 
-FILE_NAME = "data.json"
+# =========================
+# 路徑設定
+# =========================
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FILE_NAME = os.path.join(BASE_DIR, "data.json")
 
 # =========================
 # 資料處理
